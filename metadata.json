@@ -1,0 +1,5 @@
+{
+  "name": "Pseudo SGBD",
+  "description": "Simulate XAMPP's MySQL console CLI to learn and practice database courses with CRUD operations. Features a bento grid UI for progressive learning.",
+  "requestFramePermissions": []
+}
